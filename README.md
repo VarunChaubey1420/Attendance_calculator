@@ -1,84 +1,53 @@
-# 🚀 OP Attendance Tracker
+# 📊 Attendance Calculator
 
-A clean and minimal **Attendance Tracker Web App** built using HTML, CSS, and JavaScript.
-Helps you track your attendance, calculate percentage, and know how many classes you can safely bunk.
+Attendance Calculator is a simple and user-friendly web application that helps students calculate and monitor their attendance percentage with ease.
 
----
-
-## 🌐 Live Demo
-
-👉 https://varunchaubey1420.github.io/attendance_calculator/
+Instead of manually calculating attendance after every lecture, users can quickly enter the number of attended and total classes to instantly view their attendance percentage and determine how many more classes they need to attend or can safely miss.
 
 ---
 
 ## ✨ Features
 
-* 📊 Real-time attendance calculation
-* 💾 Data saved using browser localStorage (no data loss on refresh)
-* 🎯 Smart attendance status (Safe / Low)
-* 😎 Bunk calculator (how many classes you can skip)
-* 📱 Responsive modern UI
-* 🔄 Daily update system
+* 📈 Instant attendance percentage calculation
+* 🎯 Clean and intuitive user interface
+* 📱 Fully responsive design
+* ⚡ Fast calculations with JavaScript
+* 🎨 Modern and minimal UI
+* 🖥️ Works directly in the browser
 
 ---
 
 ## 🛠️ Tech Stack
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 
 ---
 
-## 📸 Preview
+## 🎯 Project Objective
 
-<img src="screenshot.png" alt="App Screenshot" width="300"/>
+The goal of this project is to simplify attendance tracking for students through a lightweight and responsive web application.
 
----
-
-## ⚙️ How It Works
-
-1. Enter your **total lectures** and **attended lectures**
-2. Update daily with new lectures
-3. App automatically:
-
-   * Calculates attendance %
-   * Updates progress bar
-   * Shows safe/low status
-   * Suggests bunk/required classes
+It eliminates the need for manual calculations and provides instant results with an easy-to-use interface.
 
 ---
 
-## 💡 Key Concepts Used
+## 🚀 Future Improvements
 
-* localStorage for persistent data
-* DOM manipulation
-* Event handling
-* Logical calculations
-
----
-
-## 🚀 How to Run Locally
-
-1. Clone the repository
-
-```
-git clone https://github.com/varunchaubey1420/attendance_calculator.git
-```
-
-2. Open the folder
-
-3. Run `index.html` in your browser
-   OR use Live Server (recommended)
+* 💾 Save attendance locally
+* 📚 Multiple subject management
+* 📅 Semester-wise attendance tracking
+* 📊 Attendance analytics and graphs
+* 🔔 Low attendance alerts
+* ☁️ Cloud synchronization
+* 📱 Progressive Web App (PWA) support
 
 ---
 
-## 🧠 Future Improvements
+## 🌐 Live Demo
 
-* 📱 Convert to PWA (installable app)
-* ☁️ Cloud sync (Firebase)
-* 📊 Graph visualization
-* 🎯 Advanced predictions
+https://varunchaubey1420.github.io/attendance-calculator/
 
 ---
 
@@ -86,8 +55,8 @@ git clone https://github.com/varunchaubey1420/attendance_calculator.git
 
 **Varun Chaubey**
 
+Computer Science Student • Frontend Developer
+
 ---
 
-## ⭐ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
+⭐ If you found this project useful, consider giving it a star!
